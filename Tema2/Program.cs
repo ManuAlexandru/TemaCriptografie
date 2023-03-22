@@ -18,7 +18,7 @@ Console.WriteLine($"Sirul este: {sirVigenere}");
 Console.WriteLine($"Sirul criptat dupa metoda vigenere este: {sirNouVigenere}");
 
 //PlayFair
-string text = "Hello World";
+string text = "TESTING SHOWS THE PRESENCE NOT THE ABSENCE OF BUGS";
 string cipherText = PlayFairCypher.Encipher(text, "cipher");
 string plainText = PlayFairCypher.Decipher(cipherText, "cipher");
 
