@@ -1,0 +1,15 @@
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\bin\Debug\net6.0\Tema3.exe
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\bin\Debug\net6.0\Tema3.deps.json
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\bin\Debug\net6.0\Tema3.runtimeconfig.json
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\bin\Debug\net6.0\Tema3.dll
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\bin\Debug\net6.0\Tema3.pdb
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\Tema3.csproj.AssemblyReference.cache
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\Tema3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\Tema3.AssemblyInfoInputs.cache
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\Tema3.AssemblyInfo.cs
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\Tema3.csproj.CoreCompileInputs.cache
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\Tema3.dll
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\refint\Tema3.dll
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\Tema3.pdb
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\Tema3.genruntimeconfig.cache
+F:\Repos\TemaCriptografie\TemaCriptografie\Tema3\obj\Debug\net6.0\ref\Tema3.dll
