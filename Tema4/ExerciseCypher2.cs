@@ -1,6 +1,6 @@
 ﻿namespace Tema4
 {
-    public class ExerciseCypher1
+    public class ExerciseCypher2
     {
         public string Enchypher(int key, string text)
         {
@@ -16,7 +16,7 @@
 
             foreach (var elem in textToEncypher)
             {
-                var encryptedChar = (elem * 3 + key) % 26;
+                var encryptedChar = (elem + 3 * key) % 26;
                 encryptedText = encryptedText + Convert.ToChar(65 + encryptedChar);
             }
 
